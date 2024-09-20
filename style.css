@@ -1,0 +1,35 @@
+#myCanvas{
+    background-color: grey;
+    width:300px;
+    height:200px;
+
+}
+body{
+    background-color:darkgreen;
+    text-decoration: underline;
+}
+svg{
+    height: 1400px;
+    width: 100%;
+    border-style: solid;
+    border-width: 10px;
+    border-color:lightgreen;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+
+}
+video{
+    padding-left:650px;
+}
+audio{
+    padding-left:650px;
+    width:600px;
+}
+iframe{
+    margin-left:650px;
+}
+canvas{
+    margin-left:750px;
+}
